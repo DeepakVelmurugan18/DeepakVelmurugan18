@@ -1,13 +1,13 @@
 <h1 align="center"> DEEPAK V </h1>
 
 <p align="center">
-  <em>“A passionate Computer Science student and self-taught developer who loves to build and solve.”</em>
+  <em>“A passionate Computer Science AI&ML student and self-taught developer who loves to build and solve.”</em>
 </p>
 
 ---
 
 ###  About Me:
-- Passionate about full-stack development, problem solving, and creative design  
+-  Passionate about full-stack development, problem solving, and creative design  
 -  Currently exploring new technologies and frameworks  
 -  Always ready to learn and grow
 
@@ -17,6 +17,7 @@
 <p align="center">
   <a href="https://www.codechef.com/users/deepak241"><img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=CodeChef&logoColor=white" /></a>
   <a href="https://leetcode.com/u/kwkiv1n8vl/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" /></a>
+  <a href="https://codolio.com/profile/711523bam012"><img src="https://img.shields.io/badge/Codolio-4B0082?style=for-the-badge&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/deepak-v-237671292?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://github.com/DeepakVelmurugan18"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
@@ -80,9 +81,15 @@
   <a href="https://github.com/DeepakVelmurugan18"><img src="https://img.shields.io/badge/GitHub-View_Profile-black?style=for-the-badge&logo=github" /></a>
   <a href="https://www.codechef.com/users/deepak241"><img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=CodeChef&logoColor=white" /></a>
   <a href="https://leetcode.com/u/kwkiv1n8vl/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" /></a>
+  <a href="https://codolio.com/profile/711523bam012"><img src="https://img.shields.io/badge/Codolio-4B0082?style=for-the-badge&logoColor=white" /></a>
 </p>
 
 ---
 
 <p align="center"> Thanks for visiting my profile! </p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=DeepakVelmurugan18&label=Profile%20Views&color=blue&style=flat-square" alt="Profile Views" />
+</p>
+
 
