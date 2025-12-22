@@ -21,7 +21,7 @@
   <a href="https://www.codechef.com/users/deepak241">
     <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=CodeChef&logoColor=white" />
   </a>
-  <a href="https://leetcode.com/u/kwkiv1n8vl/">
+  <a href="https://leetcode.com/u/HCw0eDo1J7/">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" />
   </a>
   <a href="https://codolio.com/profile/711523bam012">
@@ -99,7 +99,7 @@
   <a href="https://www.codechef.com/users/deepak241">
     <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=CodeChef&logoColor=white" />
   </a>
-  <a href="https://leetcode.com/u/kwkiv1n8vl/">
+  <a href="https://leetcode.com/u/HCw0eDo1J7/">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" />
   </a>
   <a href="https://codolio.com/profile/711523bam012">
