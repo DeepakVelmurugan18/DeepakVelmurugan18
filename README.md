@@ -1,15 +1,7 @@
 <h1 align="center"> DEEPAK V </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?
-    font=Fira+Code&
-    size=22&
-    pause=1000&
-    color=38BDF8&
-    center=true&
-    vCenter=true&
-    width=650&
-    lines=AI+%26+ML+Student;Full+Stack+Developer;Problem+Solver;Open+Source+Learner" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=AI+%26+ML+Student;Full+Stack+Developer;Problem+Solver;Open+Source+Learner" />
 </p>
 
 <p align="center">
@@ -19,13 +11,13 @@
 ---
 
 ## 👨‍💻 About Me
-- 🚀 Passionate about full-stack development, problem solving, and creative design  
-- 🌱 Currently exploring AI, ML, and modern web frameworks  
-- 💡 Always eager to learn, build, and grow  
+- 🚀 Passionate about full-stack development and problem solving  
+- 🌱 Exploring AI, ML, and modern web technologies  
+- 💡 Always learning, building, and improving  
 
 ---
 
-## 🔗 Competitive Programming & Profiles
+## 🔗 Profiles
 <p align="center">
   <a href="https://www.codechef.com/users/deepak241">
     <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=CodeChef&logoColor=white"/>
@@ -38,9 +30,6 @@
   </a>
   <a href="https://www.linkedin.com/in/deepak-v-237671292">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://github.com/DeepakVelmurugan18">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
 
@@ -64,34 +53,22 @@
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 </p>
 
-### 🧰 Tools & Platforms
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
-</p>
-
 ---
 
-## 🏆 GitHub Trophies
+## 📊 GitHub Stats (ACCURATE)
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=DeepakVelmurugan18&theme=tokyonight&no-frame=true&margin-w=15"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=DeepakVelmurugan18&show_icons=true&theme=tokyonight&count_private=true"/>
 </p>
 
----
-
-## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DeepakVelmurugan18&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeepakVelmurugan18&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeepakVelmurugan18&layout=compact&theme=tokyonight&langs_count=6"/>
 </p>
 
 ---
 
 ## 🔥 GitHub Streak
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=DeepakVelmurugan18&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=DeepakVelmurugan18&theme=tokyonight"/>
 </p>
 
 ---
@@ -103,10 +80,10 @@
 
 ---
 
-## 🧠 Codolio Problem Solving Stats
+## 🧠 Codolio Problem Solving (Manual & Honest)
 <p align="center">
   <img src="https://img.shields.io/badge/Problems%20Solved-70-success?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Current%20Streak-5🔥-orange?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Current%20Streak-5-orange?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Longest%20Streak-5-blue?style=for-the-badge"/>
 </p>
 
@@ -118,7 +95,7 @@
 
 ---
 
-## 🤝 Let’s Connect & Collaborate
+## 🤝 Let’s Connect
 <p align="center">
   <a href="https://www.linkedin.com/in/deepak-v-237671292">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
