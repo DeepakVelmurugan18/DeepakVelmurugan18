@@ -67,7 +67,7 @@
 
 ### GitHub Trophies
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=DeepakVelmurugan18&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&margin-h=15" />
+![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=DeepakVelmurugan18)
 </p>
 
 ---
