@@ -1,6 +1,18 @@
 <h1 align="center"> DEEPAK V </h1>
 
 <p align="center">
+  <img src="https://readme-typing-svg.demolab.com?
+    font=Fira+Code&
+    size=22&
+    pause=1000&
+    color=38BDF8&
+    center=true&
+    vCenter=true&
+    width=650&
+    lines=AI+%26+ML+Student;Full+Stack+Developer;Problem+Solver;Open+Source+Learner" />
+</p>
+
+<p align="center">
   <em>“A passionate Computer Science AI & ML student and self-taught developer who loves to build and solve.”</em>
 </p>
 
@@ -71,15 +83,15 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DeepakVelmurugan18&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeepakVelmurugan18&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=DeepakVelmurugan18&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeepakVelmurugan18&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
 </p>
 
 ---
 
 ## 🔥 GitHub Streak
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DeepakVelmurugan18&theme=tokyonight&hide_border=true"/>
+  <img src="https://streak-stats.demolab.com?user=DeepakVelmurugan18&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
@@ -91,10 +103,16 @@
 
 ---
 
-## 🧠 Codolio Problem Solving Profile
+## 🧠 Codolio Problem Solving Stats
+<p align="center">
+  <img src="https://img.shields.io/badge/Problems%20Solved-70-success?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Current%20Streak-5🔥-orange?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Longest%20Streak-5-blue?style=for-the-badge"/>
+</p>
+
 <p align="center">
   <a href="https://codolio.com/profile/711523bam012">
-    <img src="https://img.shields.io/badge/View%20My%20Codolio%20Stats-Problem%20Solving%20Journey-4B0082?style=for-the-badge"/>
+    <img src="https://img.shields.io/badge/View%20Codolio%20Profile-4B0082?style=for-the-badge"/>
   </a>
 </p>
 
